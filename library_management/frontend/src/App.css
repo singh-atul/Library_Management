@@ -1,0 +1,11 @@
+.App {
+
+  margin-top: 4rem;
+  background-color: rgba(255, 255, 255, 0.426);
+  padding: .5rem;
+}
+
+
+.Pointer {
+  cursor: pointer;
+}
